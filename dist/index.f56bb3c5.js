@@ -682,7 +682,7 @@ class ScrollStage {
     }
 }
 new ScrollStage();
-console.log('%c Made by ꜰᴀʙᴏᴏʟᴇᴀ → https://twitter.com/faboolea', 'background: black; color: white; padding: 1ch 2ch; border-radius: 2rem;');
+console.log('%c Made by FLOWIN TEAM', 'background: black; color: white; padding: 1ch 2ch; border-radius: 2rem;');
 
 },{"three":"64dkv","gsap":"2aTR0","./Animations":"aI7c7","./SmoothScroll":"5RH3r","./shaders/vertex.glsl":"gEGar","./shaders/fragment.glsl":"kV43B","@parcel/transformer-js/src/esmodule-helpers.js":"ciiiV"}],"64dkv":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
